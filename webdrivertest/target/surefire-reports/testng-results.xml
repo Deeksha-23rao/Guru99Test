@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="webdrivertest.NewTest" duration-ms="23155" started-at="2017-06-15T13:03:49Z" finished-at="2017-06-15T13:04:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23155" started-at="2017-06-15T13:03:49Z" finished-at="2017-06-15T13:04:12Z">
+      <class name="webdrivertest.NewTest">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="beforetest" is-config="true" duration-ms="15942" started-at="2017-06-15T18:33:49Z" finished-at="2017-06-15T18:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="testeasy()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="testeasy" duration-ms="6067" started-at="2017-06-15T18:34:05Z" finished-at="2017-06-15T18:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testeasy -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="aftertest" is-config="true" duration-ms="1119" started-at="2017-06-15T18:34:11Z" finished-at="2017-06-15T18:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- webdrivertest.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- webdrivertest.NewTest -->
+</testng-results>
