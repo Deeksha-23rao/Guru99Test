@@ -15,6 +15,7 @@ public class NewTest {
   public void testeasy() {
 	  driver.get("http://demo.guru99.com/selenium/guru99home/");
 	  String title=driver.getTitle();
+	  System.out.println("title of page is"+title);
 	  //Assert.assertTrue(title.contains("Demo Guru99 page"));
 	    }
   @BeforeTest
