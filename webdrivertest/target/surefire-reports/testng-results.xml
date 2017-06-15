@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="webdrivertest.NewTest" duration-ms="23155" started-at="2017-06-15T13:03:49Z" finished-at="2017-06-15T13:04:12Z">
+  <suite name="webdrivertest.NewTest" duration-ms="11843" started-at="2017-06-15T13:18:46Z" finished-at="2017-06-15T13:18:58Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="23155" started-at="2017-06-15T13:03:49Z" finished-at="2017-06-15T13:04:12Z">
+    <test name="Command line test" duration-ms="11843" started-at="2017-06-15T13:18:46Z" finished-at="2017-06-15T13:18:58Z">
       <class name="webdrivertest.NewTest">
-        <test-method status="PASS" signature="beforetest()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="beforetest" is-config="true" duration-ms="15942" started-at="2017-06-15T18:33:49Z" finished-at="2017-06-15T18:34:05Z">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="beforetest" is-config="true" duration-ms="5180" started-at="2017-06-15T18:48:46Z" finished-at="2017-06-15T18:48:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method status="PASS" signature="testeasy()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="testeasy" duration-ms="6067" started-at="2017-06-15T18:34:05Z" finished-at="2017-06-15T18:34:11Z">
+        <test-method status="PASS" signature="testeasy()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="testeasy" duration-ms="5593" started-at="2017-06-15T18:48:51Z" finished-at="2017-06-15T18:48:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testeasy -->
-        <test-method status="PASS" signature="aftertest()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="aftertest" is-config="true" duration-ms="1119" started-at="2017-06-15T18:34:11Z" finished-at="2017-06-15T18:34:12Z">
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:webdrivertest.NewTest@dfd3711]" name="aftertest" is-config="true" duration-ms="1056" started-at="2017-06-15T18:48:57Z" finished-at="2017-06-15T18:48:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftertest -->
